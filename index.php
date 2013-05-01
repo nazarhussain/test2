@@ -2,4 +2,4 @@
 echo phpinfo();
 ?>
 
-Copyright
+Copyright (c)
